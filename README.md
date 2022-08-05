@@ -25,3 +25,14 @@ As a result, data analysis processes often include the use of visualizations, ty
 <p align="justify">- SVC and Logistic Regression had low scores (15% and 11%) but RandomForest and DescisionTree were a bit better (27% and 42%), and Neural Network was by far the best at 81%
 - Use plot-confusion-matrix module to create confusion matrices with the results from the models for the testing data for RandomForest and DescisionTree, which showed that a lot of the misclassifications were understandable (i.e. Hip Hop classified as R&B or Pop).</p>
 - The results of the neural network had to be converted from vectors of scores to a single predicted genre in order to make a confusion matrix- again, the misclassifications were understandable and the results are better understood as a set of possible genres.</p>
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Python 3.8.2</b> 
+- <b>Jupyter Notebooks</b>
+- <b>PyCharm 2022.1.1 (Edu)</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b>
