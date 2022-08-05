@@ -29,10 +29,10 @@ As a result, data analysis processes often include the use of visualizations, ty
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python 3.8.2</b> 
-- <b>Jupyter Notebooks</b>
-- <b>PyCharm 2022.1.1 (Edu)</b>
+- Python 3.8.2 
+- Jupyter Notebooks
+- PyCharm 2022.1.1 (Edu)
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
+- Windows 10
