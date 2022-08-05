@@ -35,4 +35,4 @@ As a result, data analysis processes often include the use of visualizations, ty
 
 <h2>Environments Used </h2>
 
-- Windows 10
+- Windows 111
